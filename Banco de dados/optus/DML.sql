@@ -14,8 +14,8 @@ INSERT INTO Estilo (NomeEstilo) VALUES
 
 
 INSERT INTO Album (Nome, DataLancamento, QuantidadeMusicas, DuracaoAlbum, IdArtista) VALUES
-	('Mc kevinho', '1980-07-25T00:00:00.000', 12, 30.00, 1),
-	('Luan Santana', '1970-03-11T00:00:00.000', 8, 32.50, 2);
+	('Mc kevinho', '2010-07-25T00:00:00.000', 15, 30.00, 1),
+	('Luan Santana', '2015-03-11T00:00:00.000', 10, 32.50, 2);
 
 
 INSERT INTO EstilosAlbum (IdAlbum, IdEstilo) VALUES 
